@@ -34,41 +34,6 @@ class Contact extends Component {
         </div>
 
         <div className="row">
-          <div className="eight columns">
-
-            <form action="" method="post" id="contactForm" name="contactForm">
-              <fieldset>
-
-                <div>
-                  <label htmlFor="contactName">Nom <span className="required">*</span></label>
-                  <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange} />
-                </div>
-
-                <div>
-                  <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-                  <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange} />/>
-                  </div>
-                <div>
-                  <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                  <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                </div>
-
-                <div>
-                  <button className="submit">Envoyer</button>
-                  <span id="image-loader">
-                    <img alt="" src="images/loader.gif" />
-                  </span>
-                </div>
-              </fieldset>
-            </form>
-
-            <div id="message-warning"> Une erreur est survenue</div>
-            <div id="message-success">
-              <i className="fa fa-check"></i>Votre message a bien été envoyé, merci !<br />
-            </div>
-          </div>
-
-
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
 
@@ -77,7 +42,8 @@ class Contact extends Component {
                 {name}<br />
                 {street} <br />
                 {city}, {state} {zip}<br />
-                <span>{phone}</span>
+                <span>{phone}</span><br />
+                <span>{email}</span>
               </p>
             </div>
           </aside>

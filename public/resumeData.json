@@ -7,7 +7,7 @@
     "bio": "Après des études en marketing et plusieurs expériences dans ce domaine et le domaine commercial, j'ai entamé une reconversion professionnelle en me formant au developpement web et mobile à la Wild Code School. Mes expériences passées m'ont permis d'acquérir différentes compétences en terme de gestion de projet, d'équipe et webmarketing. La formation dispensée à la Wild Code School, en plus de me former techniquement, m'a préparé à apprendre rapidement de manière autonome. ",
     "contactmessage": "N'hésitez pas à me contacter pour plus d'informations",
     "email": "agathe.cazals@gmail.com",
-    "phone": "06-35-31-35-82",
+    "phone": "06.35.31.35.82",
     "address": {
       "street": "31 rue du Capitaine Escudié",
       "city": "Toulouse",
@@ -27,7 +27,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Wild Code School",
