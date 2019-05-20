@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Agathe Cazals",
-    "occupation": "développeuse web et mobile",
-    "description": "En reconversion professionnelle , je suis actuellement en formation de developpement web et mobile à la Wild Code School. J'ai étudié avant cela le marketing et ai travaillé en tant que commerciale dans le web-marketing et la gestion de projets. Polyvalente, curieuse j'apprends et je madapte vite ! ",
+    "occupation": "Développeuse fullstack React / Node.js",
+    "description": "Développeuse fullstack sur les technologies React/JS, et Node.JS avec 5 ans d'expériences dans le web-marketing et la gestion de projets. Polyvalente, curieuse, j'apprends et je m'adapte vite !",
     "image": "profilepic.jpg",
     "bio": "Après des études en marketing et plusieurs expériences dans ce domaine et le domaine commercial, j'ai entamé une reconversion professionnelle en me formant au developpement web et mobile à la Wild Code School. Mes expériences passées m'ont permis d'acquérir différentes compétences en terme de gestion de projet, d'équipe et webmarketing. La formation dispensée à la Wild Code School, en plus de me former techniquement, m'a préparé à apprendre rapidement de manière autonome. ",
     "contactmessage": "N'hésitez pas à me contacter pour plus d'informations",
@@ -16,7 +16,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/agathe-cazals-08825414b/",
+        "url": "https://www.linkedin.com/in/agathe-cazals/",
         "className": "fa fa-linkedin"
       },
       {
@@ -33,7 +33,11 @@
         "school": "Wild Code School",
         "degree": "Bac+2",
         "graduated": "Juillet 2019",
-        "description": "Formation développeur web & mobile : Javascript / React / Node.JS"
+        "description": "Formation développeur web & mobile : Javascript / React / Node.JS
+        Front-end : React, Redux, JS
+Intégration : HTML5, CSS3, Bootstrap,
+Back-end : Express, Node.JS, API, SQL
+Gestion de projet : méthodes Agiles (SCRUM), GitFlow "
       },
       {
         "school": "Université de Perpignan",
@@ -50,16 +54,60 @@
     ],
     "work": [
       {
+        "company": "Innov'Educ - Toulouse",
+        "title": "Développeuse fullstack React / Node.js ",
+        "years": "Mai 2019 - Aujourd'hui",
+        "description": "Réalisation d'une plateforme de mise en relation entre élèves et recruteurs pour les besoins d'une école privée.
+
+        Environnement technique:
+        -JavaScript,
+        -React,
+        - mySQL
+        - Node.js
+        - Redux
+        -gestion projet via Scrum et GitFlow
+        -API ",
+      },
+      {
+        "company": "Innov'Educ - Toulouse",
+        "title": "Développeuse React / JS / Node.JS ",
+        "years": "Mars 2019 - Mai 2019",
+        "description": "Réalisation d'un site web responsive pour une école privée référençant l'ensemble des projets digitaux réalisés depuis 2018.
+
+        Environnement technique:
+        - JavaScript,
+        - Bootsrap
+        -React,
+        -Scrum,
+        -API 
+        
+        www.wild31.com "
+      },
+      {
+        "company": "Wild Code School - Toulouse",
+        "title": "Développeuse web front-end",
+        "years": "Novembre 2017 - Janvier 2019",
+        "description": "Développement d'un blog sur le thème de l'espace.
+
+        Environnement technique : 
+        - HTML5 
+        - CSS3
+        - Bootstrap 
+        - Github"
+      },
+      {
         "company": "EFPE - Toulouse",
         "title": "Responsable communication ",
         "years": "Novembre 2017 - Janvier 2019",
-        "description": "Organisation et promotions de sessions de formation à travers la France (SEA, SMO)"
+        "description": "Organisation d'une trentaine de formations professionnelles (secteur santé) 
+        Communication (réseaux sociaux, newsletters)."
       },
       {
         "company": "CToutVert - Toulouse",
         "title": "Commerciale ",
         "years": "Avril 2014 - Novembre 2017",
-        "description": "Commercialisation d'outils webmarketing, suivi et relations clients. Suivi gestion de projets, analyse de trafic et reporting. "
+        "description": "Commercialisation d'outils webmarketing auprès de clients hôtellerie (HPA), suivi et relation client 
+        Suivi de gestion de projet, analyse de trafic et reporting "
       },
       {
         "company": "Privilège Groupe - Toulouse",
